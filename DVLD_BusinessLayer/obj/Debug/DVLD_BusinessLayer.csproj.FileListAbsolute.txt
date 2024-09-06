@@ -36,3 +36,13 @@ D:\Projects\My Projects With C#\Driving License Management\DVLD_BusinessLayer\ob
 D:\Projects\My Projects With C#\Driving License Management\DVLD_BusinessLayer\obj\Debug\DVLD_BusinessLayer.csproj.CopyComplete
 D:\Projects\My Projects With C#\Driving License Management\DVLD_BusinessLayer\obj\Debug\DVLD_BusinessLayer.dll
 D:\Projects\My Projects With C#\Driving License Management\DVLD_BusinessLayer\obj\Debug\DVLD_BusinessLayer.pdb
+D:\Projects\My_Projects_c#\DVLD\DVLD_BusinessLayer\bin\Debug\DVLD_BusinessLayer.dll
+D:\Projects\My_Projects_c#\DVLD\DVLD_BusinessLayer\bin\Debug\DVLD_BusinessLayer.pdb
+D:\Projects\My_Projects_c#\DVLD\DVLD_BusinessLayer\bin\Debug\DVLD_DataAccessLayer.dll
+D:\Projects\My_Projects_c#\DVLD\DVLD_BusinessLayer\bin\Debug\MaterialSkin.dll
+D:\Projects\My_Projects_c#\DVLD\DVLD_BusinessLayer\bin\Debug\DVLD_DataAccessLayer.pdb
+D:\Projects\My_Projects_c#\DVLD\DVLD_BusinessLayer\obj\Debug\DVLD_BusinessLayer.csproj.AssemblyReference.cache
+D:\Projects\My_Projects_c#\DVLD\DVLD_BusinessLayer\obj\Debug\DVLD_BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Projects\My_Projects_c#\DVLD\DVLD_BusinessLayer\obj\Debug\DVLD_BusinessLayer.csproj.CopyComplete
+D:\Projects\My_Projects_c#\DVLD\DVLD_BusinessLayer\obj\Debug\DVLD_BusinessLayer.dll
+D:\Projects\My_Projects_c#\DVLD\DVLD_BusinessLayer\obj\Debug\DVLD_BusinessLayer.pdb

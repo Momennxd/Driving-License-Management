@@ -26,3 +26,11 @@ D:\Projects\My Projects With C#\Driving License Management\DVLD_DataAccessLayer\
 D:\Projects\My Projects With C#\Driving License Management\DVLD_DataAccessLayer\obj\Debug\DVLD_DataAccessLayer.csproj.CopyComplete
 D:\Projects\My Projects With C#\Driving License Management\DVLD_DataAccessLayer\obj\Debug\DVLD_DataAccessLayer.dll
 D:\Projects\My Projects With C#\Driving License Management\DVLD_DataAccessLayer\obj\Debug\DVLD_DataAccessLayer.pdb
+D:\Projects\My_Projects_c#\DVLD\DVLD_DataAccessLayer\bin\Debug\DVLD_DataAccessLayer.dll
+D:\Projects\My_Projects_c#\DVLD\DVLD_DataAccessLayer\bin\Debug\DVLD_DataAccessLayer.pdb
+D:\Projects\My_Projects_c#\DVLD\DVLD_DataAccessLayer\bin\Debug\MaterialSkin.dll
+D:\Projects\My_Projects_c#\DVLD\DVLD_DataAccessLayer\obj\Debug\DVLD_DataAccessLayer.csproj.AssemblyReference.cache
+D:\Projects\My_Projects_c#\DVLD\DVLD_DataAccessLayer\obj\Debug\DVLD_DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Projects\My_Projects_c#\DVLD\DVLD_DataAccessLayer\obj\Debug\DVLD_DataAccessLayer.csproj.CopyComplete
+D:\Projects\My_Projects_c#\DVLD\DVLD_DataAccessLayer\obj\Debug\DVLD_DataAccessLayer.dll
+D:\Projects\My_Projects_c#\DVLD\DVLD_DataAccessLayer\obj\Debug\DVLD_DataAccessLayer.pdb

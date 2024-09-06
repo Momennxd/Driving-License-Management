@@ -48,7 +48,11 @@ namespace DVLD_DataAccessLayer
                     Phone = (string)Reader["Phone"];
                     Email = (string)Reader["Email"];
                     NationalityCountryID = (int)Reader["NationalityCountryID"];
-                    ImagePath = (string)Reader["ImagePath"];
+
+                    if (Reader["ImagePath"] != DBNull.Value)
+                    {
+                        ImagePath = (string)Reader["ImagePath"];
+                    }
 
 
 
@@ -107,6 +111,11 @@ namespace DVLD_DataAccessLayer
                     Phone = (string)Reader["Phone"];
                     Email = (string)Reader["Email"];
                     NationalityCountryID = (int)Reader["NationalityCountryID"];
+
+                    if (Reader["ImagePath"] != DBNull.Value)
+                    {
+                        ImagePath = (string)Reader["ImagePath"];
+                    }
                     ImagePath = (string)Reader["ImagePath"];
 
 
